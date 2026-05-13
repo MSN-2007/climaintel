@@ -1,0 +1,8 @@
+{
+  "name": "ClimaIntel: Global Climate Intelligence",
+  "description": "A high-fidelity climate analysis dashboard providing 30-year historical insights, seasonal breakdowns, and interactive visualizations for any location on Earth.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
